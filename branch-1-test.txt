@@ -1,1 +1,3 @@
-Test gałęzi pierwszej.
+Test gałęzi pierwszej
+
+Zmiana numer 2.
